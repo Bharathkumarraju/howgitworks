@@ -6,3 +6,5 @@ gauva
 hello
 100 apple
 18 banana
+
+20 roses
