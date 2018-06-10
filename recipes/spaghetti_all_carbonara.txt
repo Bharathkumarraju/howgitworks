@@ -6,3 +6,9 @@ gauva
 hello
 100 apple
 18 banana
+
+7 eggs
+salt and pepper
+
+1 pound spaghetti
+handful parsley
